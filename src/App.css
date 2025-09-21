@@ -1,0 +1,18 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.chatbox {
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 400px;
+}
+.messages {
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+}
+.user {
+  text-align: right;
+  color: blue;
+}
